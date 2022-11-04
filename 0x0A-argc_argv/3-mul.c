@@ -25,4 +25,4 @@ int main(int argc, char *argv[])
 	product = b *c;
 	printf("%d\n", product);
 	return (0);
-}i
+}

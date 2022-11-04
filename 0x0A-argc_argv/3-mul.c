@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *main - product of 2 numbers
+ :main - product of 2 numbers
  *@argc: first parameter
  *@argv: second parameter
  *DESCRIPTION: outputs the product if 2 numbers
